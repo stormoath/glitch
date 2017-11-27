@@ -1,0 +1,17 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "main.js",
+	"scripts": {
+		"start": "node main.js"
+	},
+	"engines": {
+		"node": "4.4.5"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/stormoath/glitch/tree/glitch"
+	}
+}
